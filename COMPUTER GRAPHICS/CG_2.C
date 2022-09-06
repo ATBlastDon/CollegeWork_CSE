@@ -1,3 +1,5 @@
+//Experiment 2: Bresenham's Line Drawing Algorithm
+
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
