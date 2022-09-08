@@ -9,3 +9,4 @@
 | [Tanmay Patil](https://t.me/tanu10903)         | [Aryaman Sawant](https://t.me/aryaman0910)       |
 | [Anirudhha Pednekar](https://t.me/niruddha12)  | [Prathamesh Kamble](https://t.me/PRATHAMESH89)   |
 | [Om Takale](https://t.me/O_MTakale)            | [Vansh Gandhi](https://t.me/VANSHGANDHI)         |
+| [Ayush Bansod](https://t.me/AyushB98)      |         |
