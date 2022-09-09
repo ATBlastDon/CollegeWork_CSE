@@ -1,5 +1,5 @@
 # CollegeWork_CSE
-## By [Atharv Sutar](https://t.me/ATANYTHING)
+## By [Atharv Sutar](https://t.me/ATANYTHING) & [Zohaib Hamdule](https://github.com/zohaib2002)
 
 ### FAMT WORK
 
