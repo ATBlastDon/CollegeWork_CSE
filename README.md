@@ -10,4 +10,4 @@ c          # CollegeWork_CSE
 | [Anirudhha Pednekar](https://t.me/niruddha12)  | [Prathamesh Kamble](https://t.me/PRATHAMESH89)   |  [Shambhavi Sutar](https://github.com/SBS-WORLD)|
 | [Om Takale](https://t.me/O_MTakale)            | [Vansh Gandhi](https://t.me/VANSHGANDHI)         |  [Anuja Patil]()                                |   
 | [Ayush Bansod](https://t.me/AyushB98)          | [Shivam Parab](https://t.me/shivamparab24)       |  [Sakshi Sawant](https://github.com/Sonu2022)   |
-| [Gargi Nagawekar](https://github.com/gun006)   |                                                  |                                                 |
+| [Gargi Nagawekar](https://github.com/gun006)   | [Sumit Rajam](https://github.com/SumitRajam)     |                                                 |
