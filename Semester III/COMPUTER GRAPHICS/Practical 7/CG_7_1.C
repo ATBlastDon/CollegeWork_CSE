@@ -1,4 +1,4 @@
-//Experiment 7: 2D Transformation(Translation, Scaling and Rotation about origin)
+//Experiment 7.1: 2D Transformation(Translation, Scaling and Rotation about origin)
 
 #include <stdio.h>
 #include <conio.h>
