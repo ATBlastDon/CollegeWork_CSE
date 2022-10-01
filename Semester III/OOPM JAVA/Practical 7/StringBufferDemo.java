@@ -1,6 +1,6 @@
 class StringBufferDemo
 {
-	public static void main(Sring[] args)
+	public static void main(String[] args)
 	{
 	StringBuffer str = new StringBuffer("Finolex");
 	System.out.println("Length=" + str.length());
