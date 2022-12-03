@@ -1,3 +1,8 @@
+//
+// Program Statement: Write a program to convert an infix expression into its equivalent
+postfix notation.
+//
+
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
