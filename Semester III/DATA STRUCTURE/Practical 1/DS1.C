@@ -1,3 +1,8 @@
+//
+// Program Statement: Write a program to create stack using array and perform Push, Pop,
+and Peek operations on a stack.
+//
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
