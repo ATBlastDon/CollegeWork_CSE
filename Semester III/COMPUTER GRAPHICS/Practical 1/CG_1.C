@@ -1,4 +1,4 @@
-//Experiment 1: DDA Line Drawing Algorithm
+// Experiment 1: DDA Line Drawing Algorithm //
 
 #include<stdio.h>
 #include<conio.h>

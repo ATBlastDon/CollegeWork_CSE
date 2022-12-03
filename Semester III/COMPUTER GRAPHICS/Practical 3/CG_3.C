@@ -1,4 +1,4 @@
-//Experiment 3: Midpoint Circle Generation Algorithm
+// Experiment 3: Midpoint Circle Generation Algorithm //
 
 #include<stdio.h>
 #include<conio.h>

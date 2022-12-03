@@ -1,4 +1,4 @@
-//Experiment 8: Cohen Sutherland line clipping algorithm
+// Experiment 8: Cohen Sutherland line clipping algorithm //
 #include <stdio.h>
 #include <conio.h>
 #include <graphics.h>

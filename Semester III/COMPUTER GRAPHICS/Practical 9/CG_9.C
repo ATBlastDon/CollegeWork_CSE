@@ -1,3 +1,5 @@
+// Experiment 9: Polygon Clipping Algorithm //
+
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>

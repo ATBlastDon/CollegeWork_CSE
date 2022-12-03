@@ -1,4 +1,4 @@
-//Experiment 7.3: Shearing
+// Experiment 7.3: Shearing //
 
 #include <stdio.h>
 #include <conio.h>

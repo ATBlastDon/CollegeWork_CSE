@@ -1,4 +1,4 @@
-//Experiment 4: Midpoint Ellipse Generation Algorithm
+// Experiment 4: Midpoint Ellipse Generation Algorithm //
 
 #include<stdio.h>
 #include<conio.h>

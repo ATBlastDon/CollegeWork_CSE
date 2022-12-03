@@ -1,4 +1,4 @@
-//Experiment 7.2: 2D Transformation(Rotation about an arbitrary point)
+// Experiment 7.2: 2D Transformation(Rotation about an arbitrary point) //
 
 #include <stdio.h>
 #include <conio.h>

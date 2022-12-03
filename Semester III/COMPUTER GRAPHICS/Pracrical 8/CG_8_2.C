@@ -1,4 +1,4 @@
-//Experiment 8.2: Liag Barsky Line Clipping Algorithm:
+// Experiment 8.2: Liag Barsky Line Clipping Algorithm //
 
 #include<stdio.h>
 #include<conio.h>

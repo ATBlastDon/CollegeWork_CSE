@@ -1,3 +1,5 @@
+// Experiment 1: Bezier Curve //
+
 #include <stdio.h>
 #include <conio.h>
 #include <graphics.h>

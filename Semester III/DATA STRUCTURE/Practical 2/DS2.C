@@ -1,7 +1,4 @@
-//
-// Program Statement: Write a program to convert an infix expression into its equivalent
-postfix notation.
-//
+// Program Statement: Write a program to convert an infix expression into its equivalent postfix notation. //
 
 #include<stdio.h>
 #include<conio.h>

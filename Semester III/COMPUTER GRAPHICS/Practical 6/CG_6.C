@@ -1,4 +1,4 @@
-//Experiment 6: Scanline Polygon Fill Algorithm
+// Experiment 6: Scanline Polygon Fill Algorithm //
 
 #include <stdio.h>
 #include <conio.h>
