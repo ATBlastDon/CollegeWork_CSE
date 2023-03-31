@@ -1,3 +1,5 @@
+# C program for implementation of KnapSack
+
 def knapsack(weights, profits, n, capacity):
 	remaining_wt = capacity
 	sln_vector = []

@@ -1,4 +1,4 @@
-myArr = [1,2,3,4,5,6,7,8,9]
+// Python program for implementation of MinMax
 
 def combine(tup1, tup2):
 

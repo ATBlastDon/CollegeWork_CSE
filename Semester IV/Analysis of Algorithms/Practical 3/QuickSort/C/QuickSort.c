@@ -1,3 +1,5 @@
+// C program for implementation of QuickSort
+
 #include <stdio.h>
 
 int partition(int arr[], int len)
@@ -20,7 +22,7 @@ int partition(int arr[], int len)
 			}
 			else right--;
 		}
-		
+
 		else
 		{
 			if (arr[left] > arr[pivot])
@@ -51,15 +53,17 @@ void quicksort(int arr[], int len)
 }
 
 
-int main()
+void main()
 {
-	int arr[] = {1,6,3,2,9,5,4,7,8};
+	int i, arr[] = {1,6,3,2,9,5,4,7,8};
+	clrscr();
+	printf("Given Array: 1,6,3,2,9,5,4,7,8");
 	quicksort(arr, 9);
-
-	for (int i =0; i< 9; i++)
+	printf("\nSorted Array is: ");
+	for (i =0; i< 9; i++)
 	{
 		printf("%d ", arr[i]);
 	}
 
-	return 0;
+	getch();
 }

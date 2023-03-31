@@ -1,3 +1,5 @@
+# Python program for implementation of Dijkstra
+
 INF = 99999
 
 def dijkstra(matrix, source):
@@ -15,11 +17,8 @@ def dijkstra(matrix, source):
 	search_complete = False
 
 	while not search_complete:
-
-		# Out of the unvisited nodes find the one with least cost
 		smallest = 0
 
-		# Set smallest to first unvisited node
 		search_complete = True
 		for j in range(len(d)):
 			if not visited[j]:
@@ -27,17 +26,14 @@ def dijkstra(matrix, source):
 				search_complete = False
 				break
 
-		# Find the smallest unvisited node (unvisited node with the least cost)
 		for j in range(len(d)):
 			if (not visited[j] and (d[j] < d[smallest])):
 				smallest = j
 
 		if not search_complete:
-			# Find adjacent nodes
 			for j in range(len(matrix[smallest])):
 				if matrix[smallest][j] != 0 and matrix[smallest][j] != INF:
 
-					# Perform relaxation
 					if d[smallest] + matrix[smallest][j] < d[j]:
 						d[j] = d[smallest] + matrix[smallest][j]
 						prev[j] = smallest + 1
@@ -63,6 +59,7 @@ def dijkstra(matrix, source):
 
 adj_matrix = [
 	# 1    2     3    4
+   
 	[0,    10,   5,   2  ], #1
 	[INF,  0,    INF, INF], #2
 	[INF,  INF,  0,   6  ], #3
