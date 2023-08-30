@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript</h1>
+<p>javascript is a programming language</p>
+<p id="demo"></p>
+<p id="addstring"></p>
+<p id="forloop"></p>
+<p id="function"></p>
+<p id="class"></p>
+<p id="array"></p>
+<script>
+var x = 5;
+var y = 6;
+var z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+let text1 = "John";
+let text2 = "Doe";
+let text3 = text1 + " " + text2;
+document.getElementById("addstring").innerHTML = text3;
+let text = "";
+for (let i = 0; i < 5; i++) {
+text += "The number is " + i + "<br>";
+}
+document.getElementById("forloop").innerHTML = text;
+var x = myFunction(4, 3);
+document.getElementById("function").innerHTML = x;
+function myFunction(a, b) {
+return a * b;
+}
+class Car {
+constructor(name, year) {
+this.name = name;
+this.year = year;
+}
+}
+const myCar = new Car("Ford", 2014);
+document.getElementById("class").innerHTML =
+myCar.name + " " + myCar.year;
+const cars = ["Saab", "Volvo", "BMW"];
+document.getElementById("array").innerHTML = cars;
+</script>
+<button onclick="document.getElementById('event').innerHTML=Date()">The time
+is?</button>
+<p id="event"></p>
+</body>
+</html>
