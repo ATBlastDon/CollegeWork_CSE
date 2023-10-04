@@ -1,0 +1,45 @@
+1. npx create-react-app appname
+
+	//create a folder with react components 
+
+2. npm install -g create-react-app @latest 
+	
+	//if you run into some problem
+
+3. cd appname 
+	
+	//open root folder
+
+4. code . 
+	
+	//open the folder in VScode
+
+5. //create a .js file inside src folder
+
+6. //write some function inside that folder
+
+function Kaiwalya(){
+    return(
+        <div>
+            <h1>Hello</h1>
+            <h2>I am Kaiwalya</h2>
+        </div>
+    );
+}
+
+export default Kaiwalya;
+
+7. //import and call inside index.js
+
+
+import Kaiwalya from './Kaiwalya';
+
+
+<React.StrictMode>
+    <App />
+    <Kaiwalya /> 			//call 
+  </React.StrictMode>
+
+
+8. npm start (in cmd)
+	// open in browser
