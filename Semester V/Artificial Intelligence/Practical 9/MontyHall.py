@@ -1,5 +1,10 @@
+#use pip install pomegranate == v0.14
+
+
 import math
 from pomegranate import *
+
+
 
 # Initially the door selected by the guest is completely random
 guest =DiscreteDistribution( { 'A': 1./3, 'B': 1./3, 'C': 1./3 } )
